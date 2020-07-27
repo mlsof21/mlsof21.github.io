@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mlsof21-web/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mlsof21-web/static/js/main.693d52df.chunk.js",
+    "main.js.map": "/mlsof21-web/static/js/main.693d52df.chunk.js.map",
+    "runtime-main.js": "/mlsof21-web/static/js/runtime-main.a4203fb4.js",
+    "runtime-main.js.map": "/mlsof21-web/static/js/runtime-main.a4203fb4.js.map",
+    "static/js/2.fcccad55.chunk.js": "/mlsof21-web/static/js/2.fcccad55.chunk.js",
+    "static/js/2.fcccad55.chunk.js.map": "/mlsof21-web/static/js/2.fcccad55.chunk.js.map",
+    "index.html": "/mlsof21-web/index.html",
+    "precache-manifest.7ba40ddd963b63dd304cc13107bd8dce.js": "/mlsof21-web/precache-manifest.7ba40ddd963b63dd304cc13107bd8dce.js",
+    "service-worker.js": "/mlsof21-web/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mlsof21-web/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fcccad55.chunk.js.LICENSE.txt": "/mlsof21-web/static/js/2.fcccad55.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mlsof21-web/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4203fb4.js",
+    "static/js/2.fcccad55.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.693d52df.chunk.js"
+  ]
+}
