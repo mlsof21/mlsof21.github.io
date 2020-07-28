@@ -1,12 +1,13 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import { ReactComponent as UpInSmokeLogo } from "./assets/up-in-smoke-logo.svg";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <UpInSmokeLogo title="Up in Smoke Pyrography" aria-hidden="true" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
